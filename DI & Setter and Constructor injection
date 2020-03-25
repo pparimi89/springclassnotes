@@ -99,6 +99,22 @@ Setter Vs constructor
 @Required
 @Value 
 
+Places where we can Autowire objects.
+We can inject object keeping autowire over class variable.
+We can inject object  keeping autowire over Constructor.
+We can inject object  keeping autowire over Setter.
+-----------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
 
 
 
